@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/11ty/bare-npm-error.git"
+		"url": "git://github.com/11ty/npm-bare-error.git"
 	},
 	"homepage": "https://www.11ty.dev/",
 	"license": "MIT"
