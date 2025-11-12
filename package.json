@@ -1,0 +1,12 @@
+{
+	"name": "eleventy",
+	"version": "2.0.0",
+	"description": "To help folks find @11ty/eleventy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/11ty/bare-npm-error.git"
+	},
+	"homepage": "https://www.11ty.dev/",
+	"license": "MIT"
+}

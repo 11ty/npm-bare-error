@@ -1,0 +1,1 @@
+throw new Error("The `eleventy` npm package name has been graciously donated to the @11ty project by Roman Kenig-Gusev (and now throws this error). You probably wanted to install `@11ty/eleventy` instead! Read more: https://github.com/11ty/eleventy/issues/2460");
