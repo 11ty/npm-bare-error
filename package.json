@@ -3,6 +3,9 @@
 	"version": "2.0.0",
 	"description": "To help folks find @11ty/eleventy",
 	"main": "index.js",
+	"bin": {
+		"eleventy": "cmd.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/11ty/npm-bare-error.git"
