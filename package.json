@@ -1,6 +1,6 @@
 {
 	"name": "eleventy",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "To help folks find @11ty/eleventy",
 	"main": "index.js",
 	"bin": {
